@@ -1,0 +1,15 @@
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\алгоритм.csproj.AssemblyReference.cache
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\алгоритм.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\алгоритм.AssemblyInfoInputs.cache
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\алгоритм.AssemblyInfo.cs
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\алгоритм.csproj.CoreCompileInputs.cache
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\bin\Debug\net7.0\алгоритм.exe
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\bin\Debug\net7.0\алгоритм.deps.json
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\bin\Debug\net7.0\алгоритм.runtimeconfig.json
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\bin\Debug\net7.0\алгоритм.dll
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\bin\Debug\net7.0\алгоритм.pdb
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\алгоритм.dll
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\refint\алгоритм.dll
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\алгоритм.pdb
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\алгоритм.genruntimeconfig.cache
+C:\Users\0pnes\OneDrive\Рабочий стол\итоговый проект\алгоритм\obj\Debug\net7.0\ref\алгоритм.dll
